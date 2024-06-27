@@ -25,6 +25,4 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/LuscasFerreira/LuscasFerreira/output/snake.svg" alt="Snake animation" />
